@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarazMia
 - 👀 I’m interested in in advance software engineering theories, machine learning, NLP and data analysis.
 - 🌱 I’m currently learning core ML algoritms, basic properties of NLP.
-- 💞️ I’m looking to collaborate on the upcomig thesis for my final year course SWE 450.
+- 💞️ I’m looking for jobs right now!
 - 📫 How to reach me ...
 - mail : maraj262000@gmail.com, maraz36@student.sust.edu
 - phone : 01826053584
