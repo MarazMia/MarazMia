@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MarazMia
 - 👀 I’m interested in in advance software engineering theories, machine learning, NLP and data analysis.
 - 🌱 I’m currently learning core ML algoritms, basic properties of NLP.
-- 💞️ I’m looking for jobs right now!
 - 📫 How to reach me ...
-- mail : maraj262000@gmail.com, maraz36@student.sust.edu
+- mail : maraj262000@gmail.com, mmia43@tntech.edu
 - phone : 01826053584
 
 <!---
